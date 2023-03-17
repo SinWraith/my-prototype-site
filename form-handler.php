@@ -4,7 +4,7 @@ $visitor_email = $_POST['email'];
 $subject = $_POST['subject'];
 $message = $_POST['message'];
 
-$email_from = 'Black Market Apparels';
+$email_from = 'https://sinwraith.github.io/';
 
 $email_subject = 'New Form Submission';
 
